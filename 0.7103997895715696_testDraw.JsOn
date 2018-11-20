@@ -1,0 +1,30 @@
+{"ShapeArray" :
+[
+{ "className" :  "Line1",
+"fillColor" : "-1.0",
+"strokeColor" : "-1.6777216E7"
+},
+{ "className" :  "Rectangle1",
+"fillColor" : "-1.0",
+"strokeColor" : "-1.6777216E7"
+},
+{ "className" :  "Square1",
+"fillColor" : "-1.0",
+"strokeColor" : "-1.6777216E7"
+},
+{ "className" :  "Circle1",
+"fillColor" : "-1.0",
+"strokeColor" : "-1.6777216E7"
+},
+{ "className" :  "Ellipse1",
+"fillColor" : "-1.0",
+"strokeColor" : "-1.6777216E7"
+},
+{ "className" :  "Triangle1",
+"fillColor" : "-1.0",
+"strokeColor" : "-1.6777216E7"
+},
+{ "className" :  "DummyShape1"
+}
+]
+}

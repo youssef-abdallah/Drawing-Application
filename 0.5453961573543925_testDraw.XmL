@@ -1,0 +1,16 @@
+<shapes>
+<Line1>
+<fillColor>-1.0</fillColor><strokeColor>-1.6777216E7</strokeColor></Line1>
+<Rectangle1>
+<fillColor>-1.0</fillColor><strokeColor>-1.6777216E7</strokeColor></Rectangle1>
+<Square1>
+<fillColor>-1.0</fillColor><strokeColor>-1.6777216E7</strokeColor></Square1>
+<Circle1>
+<fillColor>-1.0</fillColor><strokeColor>-1.6777216E7</strokeColor></Circle1>
+<Ellipse1>
+<fillColor>-1.0</fillColor><strokeColor>-1.6777216E7</strokeColor></Ellipse1>
+<Triangle1>
+<fillColor>-1.0</fillColor><strokeColor>-1.6777216E7</strokeColor></Triangle1>
+<DummyShape1>
+<dummy>0</dummy></DummyShape1>
+</shapes>
